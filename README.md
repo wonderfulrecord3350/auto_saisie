@@ -10,3 +10,4 @@ Authors :
     
 
 ce programme permet d auto saisir les login et les passwords pour les authntifications 
+version : 0.0.1
